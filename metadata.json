@@ -1,6 +1,6 @@
 {
-  "name": "PI Coin",
-  "symbol": "PI",
-  "description": "Solana Devnet uzerinde olusturulmus PI tokeni",
-  "image": ""
+  "name": "Kont",
+  "symbol": "KONT",
+  "description": "Kont (KONT) Solana Mainnet SPL token.",
+  "image": "https://raw.githubusercontent.com/daghangulbay36-spec/solana-devnet-metadata/main/kont-logo.jpeg"
 }
